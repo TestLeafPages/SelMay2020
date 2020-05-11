@@ -1,4 +1,4 @@
-package week2.day1;
+package week2.day2;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class LauchApplication {
+public class LearnSelectClass {
 
 	public static void main(String[] args) throws InterruptedException {
 		
