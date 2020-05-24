@@ -35,6 +35,11 @@ public class SnaPDeal {
 		
 		driver.findElementByXPath("//div[contains(text(),'Quick View')]").click();
 		
+		
+		
+		
+		
+		
 		Thread.sleep(2000);
 		driver.close();
 		
